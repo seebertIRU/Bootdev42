@@ -1,0 +1,143 @@
+ExifTool Version Number         : 12.57
+File Name                       : IMG_20250624_101411.heic
+Directory                       : .
+File Size                       : 1335 kB
+File Modification Date/Time     : 2025:06:24 12:16:21-07:00
+File Access Date/Time           : 2025:06:24 12:16:21-07:00
+File Inode Change Date/Time     : 2025:06:24 12:16:31-07:00
+File Permissions                : -rwxrwxrwx
+File Type                       : HEIC
+File Type Extension             : heic
+MIME Type                       : image/heic
+Major Brand                     : High Efficiency Image Format HEVC still image (.HEIC)
+Minor Version                   : 0.0.0
+Compatible Brands               : mif1, miaf, MiHB, heic
+Handler Type                    : Picture
+Primary Item Reference          : 49
+Meta Image Size                 : 4032x3024
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 12
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 18.5
+Modify Date                     : 2025:06:23 21:23:49
+Host Computer                   : iPhone 12
+Tile Width                      : 512
+Tile Length                     : 512
+Exposure Time                   : 1/15
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 1250
+Exif Version                    : 0232
+Date/Time Original              : 2025:06:23 21:23:49
+Create Date                     : 2025:06:23 21:23:49
+Offset Time                     : -06:00
+Offset Time Original            : -06:00
+Offset Time Digitized           : -06:00
+Shutter Speed Value             : 1/15
+Aperture Value                  : 1.6
+Brightness Value                : -3.902708859
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 4.2 mm
+Subject Area                    : 2012 1510 2217 1393
+Maker Note Version              : 15
+Run Time Flags                  : Valid
+Run Time Value                  : 442625770938166
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 88
+AE Average                      : 82
+AF Stable                       : Yes
+Acceleration Vector             : 0.02889238487 -0.9801545735 -0.1146175191
+Focus Distance Range            : 1.38 - 2.04 m
+OIS Mode                        : 2
+Live Photo Video Index          : 3321888768
+HDR Headroom                    : 0
+Signal To Noise Ratio           : 17.38741683
+Focus Position                  : 55
+Sub Sec Time Original           : 657
+Sub Sec Time Digitized          : 657
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Lens Info                       : 1.549999952-4.2mm f/1.6-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 12 back dual wide camera 4.2mm f/1.6
+XMP Toolkit                     : XMP Core 6.0.0
+Creator Tool                    : 18.5
+Date Created                    : 2025:06:23 21:23:49
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 4032
+Image Height                    : 3024
+Image Spatial Extent            : 4032x3024
+Rotation                        : 270
+Image Pixel Depth               : 8 8 8
+HEVC Configuration Version      : 1
+General Profile Space           : Conforming
+General Tier Flag               : Main Tier
+General Profile IDC             : Main Still Picture
+Gen Profile Compatibility Flags : Main Still Picture, Main 10, Main
+Constraint Indicator Flags      : 176 0 0 0 0 0
+General Level IDC               : 90 (level 3.0)
+Min Spatial Segmentation IDC    : 0
+Parallelism Type                : 0
+Chroma Format                   : 4:2:0
+Bit Depth Luma                  : 8
+Bit Depth Chroma                : 8
+Average Frame Rate              : 0
+Constant Frame Rate             : Unknown
+Num Temporal Layers             : 1
+Temporal ID Nested              : No
+Media Data Size                 : 1331459
+Media Data Offset               : 3357
+Run Time Since Power Up         : 5 days 2:57:06
+Aperture                        : 1.6
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 6.2
+Shutter Speed                   : 1/15
+Create Date                     : 2025:06:23 21:23:49.657-06:00
+Date/Time Original              : 2025:06:23 21:23:49.657-06:00
+Modify Date                     : 2025:06:23 21:23:49-06:00
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.2 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.27 m
+Light Value                     : 1.6
+Lens ID                         : iPhone 12 back dual wide camera 4.2mm f/1.6
